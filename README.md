@@ -1,5 +1,4 @@
 # laughing-doodle
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 This application is a time tracker that automatically detects the usage of apps and websites by the user. The user can implement their planned schedule and get feedback/recommendations from AI to determine what changes to make to their schedule.
 Tracking time when active would help with this and will try to implement.
 
